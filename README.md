@@ -1,0 +1,3 @@
+# Curated Stays
+
+Project initialized.
